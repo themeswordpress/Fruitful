@@ -10,7 +10,6 @@ Works perfect with WooCommerce till version 3.4
 
 Fruitful PRO – WordPress responsive theme contains all the options of FREE version plus more options like ability to change width for container grid and support latest WooCommerce version. 
 
-Find all the details by link https://fruitfulcode.com/product/fruitful-pro
 
 Thank you.
 
@@ -48,8 +47,6 @@ or find in Appearance > Themes > Install theme, type “Fruitful” in search fi
     User Guide and theme features
 -------------------------------------------------------
 
-=== Documentation ===
-https://github.com/Fruitfulcode/Fruitful/wiki
 
 === WP Version ===
 As this theme uses the WordPress customizer feature for most options, it requires at least version 3.4 to work properly.
