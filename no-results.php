@@ -1,4 +1,4 @@
-<?php
+ا<?php
 /**
  * The template part for displaying a message that posts cannot be found.
  *
@@ -6,7 +6,7 @@
  *
  * @package WordPress
  * @subpackage Fruitful theme
- * @since Fruitful theme 1.0
+ * @since Fruitful theme 2.0
  */
 ?>
 
