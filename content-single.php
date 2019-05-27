@@ -2,7 +2,7 @@
 /**
  * @package WordPress
  * @subpackage Fruitful theme
- * @since Fruitful theme 1.0
+ * @since Fruitful theme 2.0
  */
 ?>
 
