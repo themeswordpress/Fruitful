@@ -6,6 +6,7 @@ jQuery(document).ready(function($) {
         subMenuDash: '&nbsp;&nbsp;&ndash;'
     });
 
+    
     function getBaseURL() {
         var url = location.href;
         var baseURL = url.substring(0, url.indexOf('/', 14));
