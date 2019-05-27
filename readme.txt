@@ -106,7 +106,7 @@ Files: .pot, ru_Ru.po, ru_Ru.mo icluded. Default language is english.
 -------------------------------------------------------
 
 = 3.7 =
-21.08.2018
+21.04.2019
 
 * Info: Check capability with latest woocommerce version
 * New: Added WPForms support
