@@ -6,6 +6,8 @@ div.fancy-select {
     width: 100%;
 }
 
+
+
 div.fancy-select.disabled {
 	opacity: 0.5;
 }
